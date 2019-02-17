@@ -1,5 +1,6 @@
-# paper_js_mazes
-Mazes displayed using Paper.js
+# dumpling_chase
+
+Valentine's day gift for my dear friend.
 
 Can be viewed on:
-https://aidenjn.github.io/paper_js_mazes/
+https://aidenjn.github.io/dumpling_chase/
